@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+import java.util.stream.*;
 
 /**
  * Class to produce statistics of movies held in a simple CSV file.
